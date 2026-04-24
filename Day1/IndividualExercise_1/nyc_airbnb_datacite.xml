@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4/metadata.xsd">
+
+  <identifier identifierType="URL">https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data</identifier>
+
+  <creators>
+    <creator>
+      <creatorName>Dgomonov</creatorName>
+    </creator>
+  </creators>
+
+  <titles>
+    <title>New York City Airbnb Open Data</title>
+  </titles>
+
+  <publisher>Kaggle</publisher>
+  <publicationYear>2019</publicationYear>
+
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+
+  <subjects>
+    <subject>Airbnb</subject>
+    <subject>New York City</subject>
+    <subject>Tourism</subject>
+    <subject>Rental Listings</subject>
+    <subject>Urban Analytics</subject>
+  </subjects>
+
+  <descriptions>
+    <description descriptionType="Abstract">
+      This dataset contains Airbnb listing information for New York City in 2019. It includes attributes such as neighbourhood group, neighbourhood, room type, price, minimum nights, number of reviews, reviews per month, host listings count, and availability. The dataset can be used to analyze Airbnb pricing, availability, neighbourhood trends, and rental market patterns in New York City.
+    </description>
+  </descriptions>
+
+  <rightsList>
+    <rights rightsURI="https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data">Public dataset available on Kaggle</rights>
+  </rightsList>
+
+</resource>

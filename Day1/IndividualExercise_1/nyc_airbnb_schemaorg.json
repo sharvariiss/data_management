@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "New York City Airbnb Open Data",
+  "description": "This dataset contains Airbnb listing information for New York City in 2019. It includes attributes such as neighbourhood group, neighbourhood, room type, price, minimum nights, number of reviews, reviews per month, host listings count, and availability. The dataset can be used to analyze Airbnb pricing, availability, neighbourhood trends, and rental market patterns in New York City.",
+  "url": "https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data",
+  "creator": {
+    "@type": "Person",
+    "name": "Dgomonov"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kaggle"
+  },
+  "datePublished": "2019",
+  "keywords": [
+    "Airbnb",
+    "New York City",
+    "tourism",
+    "rental listings",
+    "urban analytics",
+    "housing",
+    "availability",
+    "pricing"
+  ],
+  "license": "Public dataset available on Kaggle",
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "CSV",
+    "contentUrl": "https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data"
+  }
+}
